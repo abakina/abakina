@@ -1,6 +1,6 @@
-![Header](<iframe src="https://giphy.com/embed/765ccrAiB0g9z6EApL" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/765ccrAiB0g9z6EApL">via GIPHY</a></p>)
+Header
 
-About me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2BB9F7&random=false&width=435&lines=Hi!+I'm+Alena+QA+Engineer)](https://git.io/typing-svg)
 
 CV
 
