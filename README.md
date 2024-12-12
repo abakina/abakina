@@ -6,8 +6,4 @@
 
 
 
-CV
 
-Languages and Tools
-
-Follow me
